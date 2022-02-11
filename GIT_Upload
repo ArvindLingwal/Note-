@@ -1,0 +1,16 @@
+Open git
+1. git add .
+
+2. then commit on your branch with 'git commit -m "Messeage"'
+
+3. then check out to main branch for pull.
+
+4. run ' git pull origin mainbranch'
+
+5. then checkout to your branch. use 'git checkout branchname'
+
+6. then merge your code with pulled code. 'git merge mainbrachname'
+
+7. resolve conflicts.
+
+8. again add the code and the push the code to your branch. 'git push origin branchname'.
