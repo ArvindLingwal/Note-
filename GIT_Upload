@@ -44,3 +44,8 @@ to edit repository config file, git config --edit --local (--local optional)
 - to view, git config --list --local
 - to set, git config --local core.ignorecase true (--local optional)
 - to edit repository config file, git config --edit --local (--local optional)
+
+12. To un-set all users
+- git config --global --unset-all user.email
+- git config --global --unset-all user.name
+
